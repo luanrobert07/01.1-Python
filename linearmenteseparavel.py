@@ -16,3 +16,6 @@ for i, label in enumerate(np.unique(y)):
 plt.legend()
 plt.title('Visualização dos Dados')
 plt.show()
+
+
+
